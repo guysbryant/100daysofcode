@@ -10,7 +10,6 @@
 
 (function() {
     'use strict';
-//test
     // Replace January 01, 2019 with your actual start date
     let startDate = new Date('January 01, 2019')
     // Replace red with whatever color you want your text to be
