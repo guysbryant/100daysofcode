@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         100daysofcode day tracker
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.0
+// @description  Add a tracker to the top of twitter for the 100 days of code
 // @author       Guy Bryant
 // @match        https://twitter.com/*
 // @grant        none
