@@ -13,7 +13,7 @@
     // Replace January 01, 2019 with your actual start date
     let startDate = new Date('January 01, 2019')
     // Replace red with whatever color you want your text to be
-    let textColor = 'red'
+    let textColor = 'orange'
 
     let today = new Date()
     let currentDayOfCode = Math.round((today-startDate)/(1000*60*60*24))
